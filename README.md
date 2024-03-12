@@ -1,5 +1,5 @@
 # NCXSoftwareDevGray
-![](https://github.com/mexeck88/NCXSoftwareDevGray/giphy.gif)
+![](https://github.com/mexeck88/NCXSoftwareDevGray/raw/main/giphy.gif)
 # User Management API
 
 ## 1) Add a User
